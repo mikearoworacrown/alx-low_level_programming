@@ -6,3 +6,4 @@ Task 4: Write a C program that prints exactly: Programming is like building a mu
 Task 5: Write a C program that prints exactly with proper grammar, but the outcome is a piece of art,, followed by a new line. Use the function printf
 Task 6: Write a C program that prints the size of various types on the computer it is compiled and run on.
 Task 7: Write a script that generates the assembly code (Intel syntax) of a C code and save it in an output file. The C file name will be saved in the variable main.c. The output file should be named the same as the C file, but with the extension .s instead of .c. Example: if the C file is main.c, the output file should be main.s
+Task 8: UNIX is basically a simple operating system, but you have to be a genius to understand the simplicity
