@@ -6,3 +6,4 @@ Task 4: When I was having that alphabet soup, I never thought that it would pay 
 Task 5. Numbers
 Task 6: Numberz
 Task 7: Smile in the mirror
+Task 8: Hexadecimal
