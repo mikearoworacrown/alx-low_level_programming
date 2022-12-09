@@ -7,3 +7,4 @@ Task 5. Numbers
 Task 6: Numberz
 Task 7: Smile in the mirror
 Task 8: Hexadecimal
+Task 9: Patience, persistence and perspiration make an unbeatable combination for success
