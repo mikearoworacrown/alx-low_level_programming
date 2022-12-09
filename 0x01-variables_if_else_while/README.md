@@ -8,3 +8,4 @@ Task 6: Numberz
 Task 7: Smile in the mirror
 Task 8: Hexadecimal
 Task 9: Patience, persistence and perspiration make an unbeatable combination for success
+Task 10. Inventing is a combination of brains and materials. The more brains you use, the less material you need
