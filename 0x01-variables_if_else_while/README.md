@@ -5,3 +5,4 @@ Task 3: alphABET
 Task 4: When I was having that alphabet soup, I never thought that it would pay off
 Task 5. Numbers
 Task 6: Numberz
+Task 7: Smile in the mirror
