@@ -3,6 +3,7 @@
 #include <time.h>
 /**
  * positive_or_negative - Assign random number when excuted
+ * @i: test digit
  * Return: 0 (Success)
  */
 void positive_or_negative(int i)
